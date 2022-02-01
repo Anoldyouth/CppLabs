@@ -1,0 +1,4 @@
+﻿translator.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_init в функции main.
+translator.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_cleanup в функции main.
+libcurl_a.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\anold\source\repos\translator\x64\Debug\translator.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

@@ -1,0 +1,5 @@
+﻿  translator.cpp
+C:\Users\anold\source\repos\translator\translator.cpp(20,9): warning C4101: ic: неиспользованная локальная переменная
+C:\Users\anold\source\repos\translator\translator.cpp(22,10): warning C4101: bufHex: неиспользованная локальная переменная
+C:\Users\anold\source\repos\translator\translator.cpp(261,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  translator.vcxproj -> C:\Users\anold\source\repos\translator\Debug\translator.exe
